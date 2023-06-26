@@ -39,8 +39,7 @@ section {
    background-color: yellow;
 }
 
-.tabella-sopra {
-    background-color: blue;
-    color: white;
+.pallini {
+    padding: 30px;
 }
 

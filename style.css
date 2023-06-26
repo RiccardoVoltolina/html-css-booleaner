@@ -79,7 +79,7 @@ td {
 
 .azzurrino {
     background-color: rgb(116, 255, 255);
-}
+}   
 
 footer {
     margin-top: 30px;
@@ -105,4 +105,8 @@ footer {
     height: 200px;
     background-repeat: no-repeat;
     margin-top: 10px;
+}
+
+.ultimo {
+    padding: 10px;
 }

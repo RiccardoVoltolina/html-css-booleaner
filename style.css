@@ -30,3 +30,17 @@
 #booleaner {
     color: rgb(50, 143, 186);
 }
+
+section {
+    margin-top: 40px;
+}
+
+.yellow {
+   background-color: yellow;
+}
+
+.tabella-sopra {
+    background-color: blue;
+    color: white;
+}
+

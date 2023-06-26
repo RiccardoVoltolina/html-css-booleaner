@@ -4,3 +4,29 @@
     box-sizing: border-box;
 }
 
+.container {
+    background-color: rgb(27, 120, 182);
+    height: 100px;
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+.titolo {
+    margin-bottom: 40px;
+}
+
+.credits {
+    color: lightslategray;
+    font-weight: 200 ;
+}
+
+#booleaner {
+    color: rgb(50, 143, 186);
+}

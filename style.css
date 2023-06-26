@@ -24,7 +24,6 @@
 
 .credits {
     color: lightslategray;
-    font-weight: 200 ;
 }
 
 #booleaner {
@@ -43,3 +42,44 @@ section {
     padding: 30px;
 }
 
+
+table {
+    border-spacing: 0;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+thead {
+    background-color: rgb(28, 148, 227);
+    color: white;
+}
+
+.azzurrino {
+    background-color: rgb(116, 255, 255);
+}
+
+footer {
+    margin-top: 30px;
+}
+
+.immagini-finali-a {
+    background-image: url(./img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+
+.bianco {
+    color: white;
+    font-weight:bolder ;
+    padding: 10px;
+    font-size: larger;
+}
+
+.immagini-finali-b {
+    background-image: url(./img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}

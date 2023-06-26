@@ -45,13 +45,36 @@ section {
 
 table {
     border-spacing: 0;
-    width: 100%;
     margin-bottom: 30px;
+    min-width: 100%;
 }
+
 
 thead {
     background-color: rgb(28, 148, 227);
     color: white;
+}
+
+
+thead th:nth-child(1) {
+    width: 30%;
+}
+
+thead th:nth-child(2) {
+    width: 30%;
+}
+
+thead th:nth-child(3) {
+    width: 40%;
+}
+
+
+th {
+    text-align: start;
+}
+
+td {
+    text-align: start;
 }
 
 .azzurrino {
